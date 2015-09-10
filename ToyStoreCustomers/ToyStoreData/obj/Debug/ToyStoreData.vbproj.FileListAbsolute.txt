@@ -1,0 +1,8 @@
+C:\Users\tester\Documents\Visual Studio 2013\Projects\Book_Murach_ADONET_Folder\ToyStoreCustomers\ToyStoreData\bin\Debug\ToyStoreData.dll
+C:\Users\tester\Documents\Visual Studio 2013\Projects\Book_Murach_ADONET_Folder\ToyStoreCustomers\ToyStoreData\bin\Debug\ToyStoreData.pdb
+C:\Users\tester\Documents\Visual Studio 2013\Projects\Book_Murach_ADONET_Folder\ToyStoreCustomers\ToyStoreData\bin\Debug\ToyStoreData.xml
+C:\Users\tester\Documents\Visual Studio 2013\Projects\Book_Murach_ADONET_Folder\ToyStoreCustomers\ToyStoreData\obj\Debug\ToyStoreData.Resources.resources
+C:\Users\tester\Documents\Visual Studio 2013\Projects\Book_Murach_ADONET_Folder\ToyStoreCustomers\ToyStoreData\obj\Debug\ToyStoreData.vbproj.GenerateResource.Cache
+C:\Users\tester\Documents\Visual Studio 2013\Projects\Book_Murach_ADONET_Folder\ToyStoreCustomers\ToyStoreData\obj\Debug\ToyStoreData.dll
+C:\Users\tester\Documents\Visual Studio 2013\Projects\Book_Murach_ADONET_Folder\ToyStoreCustomers\ToyStoreData\obj\Debug\ToyStoreData.xml
+C:\Users\tester\Documents\Visual Studio 2013\Projects\Book_Murach_ADONET_Folder\ToyStoreCustomers\ToyStoreData\obj\Debug\ToyStoreData.pdb
