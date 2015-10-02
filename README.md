@@ -3,6 +3,9 @@ Winforms app accesses SQL database using ADO.NET written in VB.NET
 
 This is a 3 layer application with Winforms as the presentation layer, VB.NET code in the logic layer and ADO.NET to SQL Server on the database layer.  I used object data sources to access the data. 
 
+Here's what the frontend looks like:
+http://ovnisoftware.com/images/ToyStoreApp.jpg
+
 How to get it to work
 
 1. Create a database called ToyStore in Sql Server (App was tested on SQL Server 2014)
