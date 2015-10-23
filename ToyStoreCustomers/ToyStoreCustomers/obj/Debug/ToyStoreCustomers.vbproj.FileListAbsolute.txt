@@ -16,3 +16,21 @@ C:\Users\tester\Documents\Visual Studio 2013\Projects\Book_Murach_ADONET_Folder\
 C:\Users\tester\Documents\Visual Studio 2013\Projects\Book_Murach_ADONET_Folder\ToyStoreCustomers\ToyStoreCustomers\obj\Debug\ToyStoreCustomers.exe
 C:\Users\tester\Documents\Visual Studio 2013\Projects\Book_Murach_ADONET_Folder\ToyStoreCustomers\ToyStoreCustomers\obj\Debug\ToyStoreCustomers.xml
 C:\Users\tester\Documents\Visual Studio 2013\Projects\Book_Murach_ADONET_Folder\ToyStoreCustomers\ToyStoreCustomers\obj\Debug\ToyStoreCustomers.pdb
+C:\Users\tester\Documents\GitHub\ToyStore-Database-Example-Using-WinForms--ADO.NET-in-VB\ToyStoreCustomers\ToyStoreCustomers\bin\Debug\ToyStoreCustomers.exe.config
+C:\Users\tester\Documents\GitHub\ToyStore-Database-Example-Using-WinForms--ADO.NET-in-VB\ToyStoreCustomers\ToyStoreCustomers\obj\Debug\ToyStoreCustomers.exe
+C:\Users\tester\Documents\GitHub\ToyStore-Database-Example-Using-WinForms--ADO.NET-in-VB\ToyStoreCustomers\ToyStoreCustomers\obj\Debug\ToyStoreCustomers.xml
+C:\Users\tester\Documents\GitHub\ToyStore-Database-Example-Using-WinForms--ADO.NET-in-VB\ToyStoreCustomers\ToyStoreCustomers\obj\Debug\ToyStoreCustomers.pdb
+C:\Users\tester\Documents\GitHub\ToyStore-Database-Example-Using-WinForms--ADO.NET-in-VB\ToyStoreCustomers\ToyStoreCustomers\bin\Debug\ToyStoreCustomers.exe
+C:\Users\tester\Documents\GitHub\ToyStore-Database-Example-Using-WinForms--ADO.NET-in-VB\ToyStoreCustomers\ToyStoreCustomers\bin\Debug\ToyStoreCustomers.pdb
+C:\Users\tester\Documents\GitHub\ToyStore-Database-Example-Using-WinForms--ADO.NET-in-VB\ToyStoreCustomers\ToyStoreCustomers\bin\Debug\ToyStoreCustomers.xml
+C:\Users\tester\Documents\GitHub\ToyStore-Database-Example-Using-WinForms--ADO.NET-in-VB\ToyStoreCustomers\ToyStoreCustomers\bin\Debug\ToyStoreData.dll
+C:\Users\tester\Documents\GitHub\ToyStore-Database-Example-Using-WinForms--ADO.NET-in-VB\ToyStoreCustomers\ToyStoreCustomers\bin\Debug\ToyStoreData.pdb
+C:\Users\tester\Documents\GitHub\ToyStore-Database-Example-Using-WinForms--ADO.NET-in-VB\ToyStoreCustomers\ToyStoreCustomers\bin\Debug\ToyStoreData.xml
+C:\Users\tester\Documents\GitHub\ToyStore-Database-Example-Using-WinForms--ADO.NET-in-VB\ToyStoreCustomers\ToyStoreCustomers\obj\Debug\ToyStoreCustomers.vbprojResolveAssemblyReference.cache
+C:\Users\tester\Documents\GitHub\ToyStore-Database-Example-Using-WinForms--ADO.NET-in-VB\ToyStoreCustomers\ToyStoreCustomers\obj\Debug\ToyStoreCustomers.frmAddModifyCustomers.resources
+C:\Users\tester\Documents\GitHub\ToyStore-Database-Example-Using-WinForms--ADO.NET-in-VB\ToyStoreCustomers\ToyStoreCustomers\obj\Debug\ToyStoreCustomers.frmAllCustomers.resources
+C:\Users\tester\Documents\GitHub\ToyStore-Database-Example-Using-WinForms--ADO.NET-in-VB\ToyStoreCustomers\ToyStoreCustomers\obj\Debug\ToyStoreCustomers.frmCustomerOrders.resources
+C:\Users\tester\Documents\GitHub\ToyStore-Database-Example-Using-WinForms--ADO.NET-in-VB\ToyStoreCustomers\ToyStoreCustomers\obj\Debug\ToyStoreCustomers.frmFindCustomer.resources
+C:\Users\tester\Documents\GitHub\ToyStore-Database-Example-Using-WinForms--ADO.NET-in-VB\ToyStoreCustomers\ToyStoreCustomers\obj\Debug\ToyStoreCustomers.frmOrderItems.resources
+C:\Users\tester\Documents\GitHub\ToyStore-Database-Example-Using-WinForms--ADO.NET-in-VB\ToyStoreCustomers\ToyStoreCustomers\obj\Debug\ToyStoreCustomers.Resources.resources
+C:\Users\tester\Documents\GitHub\ToyStore-Database-Example-Using-WinForms--ADO.NET-in-VB\ToyStoreCustomers\ToyStoreCustomers\obj\Debug\ToyStoreCustomers.vbproj.GenerateResource.Cache
